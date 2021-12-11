@@ -1,7 +1,7 @@
-package net.proselyte.springbootdemo.service;
+package ru.bobretsoff.springbootdemo.service;
 
-import net.proselyte.springbootdemo.model.User;
-import net.proselyte.springbootdemo.repository.UserRepository;
+import ru.bobretsoff.springbootdemo.model.User;
+import ru.bobretsoff.springbootdemo.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

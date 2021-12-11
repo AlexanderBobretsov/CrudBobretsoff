@@ -1,7 +1,7 @@
-package net.proselyte.springbootdemo.controller;
+package ru.bobretsoff.springbootdemo.controller;
 
-import net.proselyte.springbootdemo.model.User;
-import net.proselyte.springbootdemo.service.UserService;
+import ru.bobretsoff.springbootdemo.model.User;
+import ru.bobretsoff.springbootdemo.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

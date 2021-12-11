@@ -1,4 +1,4 @@
-package net.proselyte.springbootdemo.model;
+package ru.bobretsoff.springbootdemo.model;
 
 import lombok.Data;
 
